@@ -55,3 +55,5 @@ public class PersonTest {
         org.hamcrest.MatcherAssert.assertThat(person.getStarships(), Matchers.arrayWithSize(2));
     }
 }
+
+// Тестовое изменение №1
