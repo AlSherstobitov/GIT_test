@@ -22,4 +22,5 @@ public class Person {
     private String edited;
     private String url;
 }
+//изменение из ветки new-branch_4
 //изменение из ветки master
