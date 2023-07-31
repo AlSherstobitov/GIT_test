@@ -55,7 +55,8 @@ public class PersonTest {
         org.hamcrest.MatcherAssert.assertThat(person.getStarships(), Matchers.arrayWithSize(2));
     }
 }
-
+// Изменение из detached HEAD состояния №1
+// Изменение из detached HEAD состояния №2
 // Тестовое изменение №1
 // Тестовое изменение №2
 
