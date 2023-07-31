@@ -62,3 +62,5 @@ public class PersonTest {
 // Тестовое изменение №3 для 3 ветки
 
 // Удаленное изменение №1
+
+// cherry-pick test
